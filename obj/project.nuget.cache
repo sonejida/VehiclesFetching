@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zBht/tEZFz93i6O/6VJTOEJCdj1a7mxFBfp6qEv8YeOp8AaRMI2VgIU/p2D/8t++DPxLF9zhGiochVjVGcLw6g==",
+  "success": true,
+  "projectFilePath": "D:\\Sem-4\\.NET using C#\\MidTerm\\MTDarshitSoneji\\MTDarshitSoneji\\MTDarshitSoneji.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1dars\\.nuget\\packages\\consoletables\\2.6.1\\consoletables.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
